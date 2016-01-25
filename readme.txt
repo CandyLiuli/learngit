@@ -7,3 +7,4 @@ Creating a new branch is quick.
 creck dev branch
 modify the second for dev
 ÎûÎû¹ş¹ş
+Creating a new branch is quick & simple.
