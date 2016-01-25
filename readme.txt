@@ -9,3 +9,4 @@ modify the second for dev
 ÎûÎû¹ş¹ş
 
 Creating a new branch is quick and simple.
+branch config strategy
